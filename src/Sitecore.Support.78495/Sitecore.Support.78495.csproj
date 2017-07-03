@@ -59,7 +59,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.78495.config" />
     <Content Include="sitecore\shell\Override\GeneralLink.xml" />
   </ItemGroup>
   <ItemGroup>
